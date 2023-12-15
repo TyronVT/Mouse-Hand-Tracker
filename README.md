@@ -9,7 +9,7 @@ This is a python program that will use your hand to move and control the mouse t
 <img src="https://raw.githubusercontent.com/TyronVT/Mouse-Hand-Tracker/main/pictures/Detection%20of%20Hand.PNG"> 
 
 # Left Click
-<img src="https://raw.githubusercontent.com/TyronVT/Mouse-Hand-Tracker/main/pictures/Detection%20of%20Hand.PNG">
+<img src="https://raw.githubusercontent.com/TyronVT/Mouse-Hand-Tracker/main/pictures/Left%20Click.png">
 
 # Right Click
 <img src="https://raw.githubusercontent.com/TyronVT/Mouse-Hand-Tracker/main/pictures/Right%20Click.png">
