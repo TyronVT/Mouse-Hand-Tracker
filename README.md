@@ -1,4 +1,9 @@
-This is a python program that will use your hand to move and control the mouse through the camera.
+**This is a python program that will use your hand to move and control the mouse through the camera.**
+- You can use the exponential moving average filter or the kalman filter by running two different scripts.
+- Side project for fun, nothing special.
+- Can really only be used to click and scroll.
+
+
 
 # Actions
 
